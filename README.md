@@ -5,4 +5,3 @@ Liste des sous-programmes à réaliser et incorporer:
   - Système élévateur
   - Odométrie
   - Déplacement/Suivi de ligne
-  -
